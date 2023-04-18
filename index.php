@@ -116,7 +116,7 @@
             <div class="contact-info">
               <p class="contact-title">Direccion</p>
 
-              <address>Av. Panamerica sur 291, Puno, Perú</address>
+              <address>Puno - Perú</address>
             </div>
 
           </li>
@@ -144,54 +144,35 @@
               <ion-icon name="logo-linkedin"></ion-icon>
             </a>
           </li>
-
         </ul>
-
       </div>
-
     </aside>
     <!--
       - #main-content
     -->
-
     <div class="main-content">
-
       <!--
         - #NAVBAR
       -->
-
       <nav class="navbar">
-
         <ul class="navbar-list">
-
           <li class="navbar-item">
             <button class="navbar-link  active" data-nav-link>Información</button>
           </li>
-
           <li class="navbar-item">
-            <button class="navbar-link" data-nav-link>Resume</button>
+            <button class="navbar-link" href="Resumen.php"</button>
           </li>
-
           <li class="navbar-item">
             <button class="navbar-link" data-nav-link>Portfolio</button>
           </li>
-
           <li class="navbar-item">
             <button class="navbar-link" data-nav-link>Blog</button>
           </li>
-
           <li class="navbar-item">
             <button class="navbar-link" data-nav-link>Contacto</button>
           </li>
-
         </ul>
-
       </nav>
-
-
-
-
-
       <!--
         - #ABOUT
       -->
